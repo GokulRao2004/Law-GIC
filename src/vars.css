@@ -1,0 +1,11 @@
+:root{
+   --color-primary-text:#333333;
+   --color-secondary-text:#666666;
+   --color-placeholder-text:#999999;
+   --color-link-text:#0275d8;
+
+   --color-main-bg:#f0f0f0;
+   --color-input-bg:#f8f9fa;
+   --color-message-bg:#ffffff;
+   
+}
